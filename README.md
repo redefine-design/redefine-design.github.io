@@ -1,6 +1,6 @@
 
 
-### Redefine Design
+# Redefine Design
 
 The home for RedefineDesign.com
 
@@ -10,4 +10,4 @@ Redefine your brand. Recreate your community. Impact your world. Imagine the pos
 Design, branding, consulting, digital service delivery.
 
 
-# redefine-design.github.io
+### redefine-design.github.io
